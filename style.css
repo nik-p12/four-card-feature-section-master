@@ -103,10 +103,7 @@ body{
 }
 
 @media screen and (min-width: 1024px) {
-  body{
-    align-items: center;
-    height: 100Vh;
-  }
+  
   .header{
     width: 700px;
   }
